@@ -1,5 +1,5 @@
-# HaxDesign Landing Page
-##This is useful for every E-Commerce store to entire in Technology World
+# HaxDesign RealEstate Website
+##This is useful for every Real-Estate to entire in Technology World.
 - Tech Stack :-
 - HTML,CSS,JAVASCRIPT,API'S etc.,
 - View of Project :-
